@@ -1,8 +1,6 @@
 # Employee Surveys by FeedbackPulse
 
-Cursor Marketplace plugin for FeedbackPulse’s remote MCP server. Design a company-specific employee survey through a short guided conversation, review the full design before signing in, then optionally connect FeedbackPulse to save the exact approved version as a reusable template or an unlaunched draft.
-
-Survey design is currently supported in **English**.
+Design a company-specific employee survey in Cursor through a short guided chat. Build pulse or engagement surveys, add an eNPS question when it fits, and optionally save via OAuth as a template or an unlaunched draft. English only. This designs the survey. It does not launch it, send reminders, manage respondents, or show eNPS results from FeedbackPulse admin dashboard.
 
 ## Install
 
