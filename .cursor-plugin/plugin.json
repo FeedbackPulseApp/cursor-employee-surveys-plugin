@@ -1,7 +1,7 @@
 {
   "name": "employee-surveys-feedbackpulse",
   "version": "1.0.0",
-  "description": "Design tailored employee surveys before sign-in.",
+  "description": "Design a company-specific employee survey in Cursor through a short guided chat. Build pulse or engagement surveys, add an eNPS question when it fits, and optionally save via OAuth as a template or an unlaunched draft. English only. This designs the survey. It does not launch it, send reminders, manage respondents, or show eNPS results from FeedbackPulse admin dashboard.",
   "author": {
     "name": "FeedbackPulse",
     "email": "naz@feedbackpulse.com"
